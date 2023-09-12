@@ -1,0 +1,1 @@
+- Create mapper for small events objects
